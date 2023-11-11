@@ -1,0 +1,25 @@
+
+body {
+  background-image: url('./img1.jpg');
+  font-family:'Courier New', Courier, monospace;
+  font-weight:inherit;
+  text-transform:uppercase;
+    font-style: italic;
+    text-align:center;
+   margin-top: 310px;
+   color:darkslategray
+  
+}
+.name{
+    margin-top:-10px;
+    font-family:serif;
+    font-variant-caps:titling-caps
+}
+.a{
+  font-size: large;
+  font-weight: bolder;
+}
+.b{
+    font-size:x-large;
+    font-weight: bolder;
+}
